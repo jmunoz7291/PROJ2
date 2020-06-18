@@ -1,0 +1,23 @@
+{
+  "name": "proj2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint **/*.js --quiet",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmunoz7291/PROJ2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmunoz7291/PROJ2/issues"
+  },
+  "homepage": "https://github.com/jmunoz7291/PROJ2#readme",
+  "dependencies": {
+    "eslint": "^7.2.0"
+  }
+}
